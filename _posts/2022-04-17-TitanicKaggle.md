@@ -240,7 +240,8 @@ pie_chart('Sex')
 
 
 
-![png](output_9_1.png)
+![output_9_1](https://user-images.githubusercontent.com/79826281/163713906-f5e60b9b-6768-446a-8d64-e80a7b92d9a1.png)
+
 
 
 
@@ -249,11 +250,13 @@ pie_chart('Pclass')
 ```
 
 
-![png](output_10_0.png)
+![output_10_0](https://user-images.githubusercontent.com/79826281/163713915-c5d9415b-d5bf-49c6-8e5f-4eafa18e89a9.png)
 
 
 
-![png](output_10_1.png)
+
+![output_10_1](https://user-images.githubusercontent.com/79826281/163713922-f8af3bff-2c83-4a73-a717-22ea413a2c88.png)
+
 
 
 
@@ -262,11 +265,12 @@ pie_chart('Embarked')
 ```
 
 
-![png](output_11_0.png)
+![output_11_0](https://user-images.githubusercontent.com/79826281/163713932-1549006a-f6f7-45fa-8dda-d0f1fd4e5548.png)
 
 
 
-![png](output_11_1.png)
+
+![output_11_1](https://user-images.githubusercontent.com/79826281/163713934-855d5aac-10c5-4833-9574-9d944f0746ac.png)
 
 
 
@@ -285,7 +289,8 @@ bar_chart("SibSp")
 ```
 
 
-![png](output_13_0.png)
+![output_13_0](https://user-images.githubusercontent.com/79826281/163713938-3323bfcf-5816-4395-aa3b-1fef0040a4bf.png)
+
 
 
 
@@ -294,7 +299,8 @@ bar_chart("Parch")
 ```
 
 
-![png](output_14_0.png)
+![output_14_0](https://user-images.githubusercontent.com/79826281/163713944-4395293b-d28e-4400-a77f-a5867d6e9a05.png)
+
 
 
 위에서 알아본 데이터를 통해 Name, Sex, Embarked, Age, SibSp, Parch, Fare, Pclass, 8개의 특성을 선택하여 학습하고 그 외의 Ticket과 Cabin에 대한 의미는 아직 찾지 못했으므로 데이터 세트에서 제외하는 작업을 진행한다.
