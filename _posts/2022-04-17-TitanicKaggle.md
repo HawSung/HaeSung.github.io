@@ -235,7 +235,8 @@ pie_chart('Sex')
 ```
 
 
-![png](output_9_0.png)
+![output_9_0](https://user-images.githubusercontent.com/79826281/163713877-7759a1a6-0e17-4d33-88ea-c8f1255c2534.png)
+
 
 
 
