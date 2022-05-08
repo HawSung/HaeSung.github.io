@@ -17,7 +17,7 @@ title:  "분류"
 
 
 ### 요리에 관한 분류기 적용
-하단링크에 가면 코드와 함께 설명이 있다  
+하단링크에 코드를 불 수 있다  
 <https://github.com/codingalzi/ML-For-Beginners/blob/main/4-Classification/1-Introduction/README.md>
 
 
@@ -40,7 +40,7 @@ K-Neighbors는 ML 방법의 "Neighbors"계열의 일부이며, 지도 학습과 
 
 ## 요리 분류기  
 요리 데이터를 가지고 여러가지 분류기를 사용하여 분석한다.  
-아래 링크에 자세히 나와있다.  
+아래 링크에 코드가 자세히 나와있다.  
 <https://github.com/codingalzi/ML-For-Beginners/blob/main/4-Classification/2-Classifiers-1/README.md>  
 이 결과를 활용하여 냉장고안에 남은 재료를 통해 만들 수 있는 최적의 요리를 알려주는 앱을 만들 수 있다.
 
